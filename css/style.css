@@ -256,3 +256,5 @@ img{max-width: 100%;}
 .campo__field--textarea{
   height: 20rem;
 }
+.error{color: rgb(185, 0, 0);}
+.correcto{color: green}
